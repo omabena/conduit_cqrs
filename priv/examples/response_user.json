@@ -1,0 +1,10 @@
+{
+    "user": {
+      "email": "jake@jake.jake",
+      "token": "jwt.token.here",
+      "username": "jake",
+      "bio": null,
+      "image": null
+    }
+  }
+  
